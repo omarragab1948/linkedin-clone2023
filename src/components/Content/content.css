@@ -1,0 +1,10 @@
+div section h5 {
+  color: #0a66c2;
+}
+.mode {
+  z-index: 1000;
+}
+.mode .icon {
+  background-color: #0a66c2;
+  color: #fff;
+}

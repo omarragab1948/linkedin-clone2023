@@ -1,0 +1,12 @@
+.signin-content {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 5px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.signin,
+.signin-btn {
+  background-color: #0a66c2;
+}
+.color {
+  color: #0a66c2;
+}

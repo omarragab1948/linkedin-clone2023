@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-y: scroll !important;
+  overflow-x: hidden !important;
+}
+
+:root,
+body,
+html {
+  box-sizing: border-box !important;
+  background-color: #f3f2ef;
+}
+.dark-mode {
+  background-color: #000;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+header nav ul .active a span:after {
+  border-color: var(--color);
+}
